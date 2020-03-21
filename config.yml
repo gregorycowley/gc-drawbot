@@ -1,0 +1,21 @@
+---
+config:
+  _BOT_ID: drawbot
+  _DIRSWAP: 
+    [True, True]
+  baseDelay: 2,
+  _D: 1000
+  startPos: 
+    x: 100 
+    y: 100 
+  stepsPerMM: 
+   [5000/500, 5000/500]
+  penPause: 200
+  static: 
+    startPos: 
+      x: 100
+      y: 100 
+      d: 0
+  paused : False
+  startStringLengths:
+    [0,0]

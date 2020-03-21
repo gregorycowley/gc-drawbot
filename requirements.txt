@@ -1,0 +1,3 @@
+access-dict-by-dot==0.0.4
+gpiozero==1.5.1
+PyYAML==5.3
